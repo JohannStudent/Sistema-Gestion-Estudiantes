@@ -42,14 +42,18 @@ El sistema simula un entorno real de desarrollo backend, aplicando buenas práct
 
 ---
 
-## 📂 Estructura del Proyecto
+## 📁 Estructura del Proyecto
 
-- `database.py` → Configuración de conexión y creación de tablas  
-- `models.py` → Definición del modelo de datos  
-- `student_manager.py` → Operaciones CRUD  
+- `create_database.sql` → Script para crear la base de datos  
+- `insert_data.sql` → Inserción de datos iniciales  
+- `database.py` → Configuración de conexión a MySQL  
+- `models.py` → Definición del modelo de datos (Student)  
+- `student_manager.py` → Operaciones CRUD sobre estudiantes  
 - `main.py` → Interfaz de usuario por consola  
+- `gui.py` → Interfaz gráfica (Tkinter)  
 - `requirements.txt` → Dependencias del proyecto  
 - `README.md` → Documentación  
+- `LICENSE` → Licencia del proyecto  
 
 ---
 

@@ -93,7 +93,7 @@ DATABASE = "student_db"
 
 ### 5️⃣ Ejecutar el sistema
 ```bash
-python main.py
+python gui.py
 ```
 
 ---

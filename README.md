@@ -1,8 +1,8 @@
-# 📦 Sistema de Gestión de Inventario (Python + MySQL)
+# 📦 Sistema de Gestión de Estudiantes (Python + MySQL)
 
 ## 🚀 Descripción del Proyecto
 
-Este proyecto consiste en el desarrollo de un **Sistema de Gestión de Inventario** implementado en **Python** con integración a **MySQL**, el cual permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre los registros de productos.
+Este proyecto consiste en el desarrollo de un **Sistema de Gestión de estudiantes** implementado en **Python** con integración a **MySQL**, el cual permite realizar operaciones CRUD (Crear, Leer, Actualizar y Eliminar) sobre los registros de productos.
 
 El sistema simula un entorno real de desarrollo backend, aplicando buenas prácticas de programación, arquitectura modular y conexión segura a bases de datos relacionales.
 

@@ -10,8 +10,8 @@ import mysql.connector
 # Credenciales de conexión (ajustar según el entorno local)
 HOST = "localhost"
 USER = "root"
-PASSWORD = "Suma@2004"  
-DATABASE = "student_db"  # Nombre de la base de datos
+PASSWORD = "Joh102Cas397*"
+DATABASE = "student_db" # Nombre de la base de datos
 
 # ==============================
 # FUNCIÓN: CREAR CONEXIÓN

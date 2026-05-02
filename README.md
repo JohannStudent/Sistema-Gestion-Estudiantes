@@ -120,4 +120,4 @@ Este proyecto fue desarrollado como parte de la asignatura **Administración de 
 ---
 
 ## 🎬 Video demostrativo
-[Enlace a YouTube o Drive]
+[[Enlace a YouTube](https://youtu.be/FyjBlu5w2Go)]
